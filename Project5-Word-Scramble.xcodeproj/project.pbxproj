@@ -13,6 +13,7 @@
 		892B5D41288F1FA700F63DA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 892B5D3F288F1FA700F63DA1 /* Main.storyboard */; };
 		892B5D43288F1FAA00F63DA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 892B5D42288F1FAA00F63DA1 /* Assets.xcassets */; };
 		892B5D46288F1FAA00F63DA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 892B5D44288F1FAA00F63DA1 /* LaunchScreen.storyboard */; };
+		892B5D4E288F230C00F63DA1 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 892B5D4D288F230C00F63DA1 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		892B5D42288F1FAA00F63DA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		892B5D45288F1FAA00F63DA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		892B5D47288F1FAA00F63DA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		892B5D4D288F230C00F63DA1 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				892B5D39288F1FA700F63DA1 /* AppDelegate.swift */,
 				892B5D3B288F1FA700F63DA1 /* SceneDelegate.swift */,
 				892B5D3D288F1FA700F63DA1 /* ViewController.swift */,
+				892B5D4D288F230C00F63DA1 /* start.txt */,
 				892B5D3F288F1FA700F63DA1 /* Main.storyboard */,
 				892B5D42288F1FAA00F63DA1 /* Assets.xcassets */,
 				892B5D44288F1FAA00F63DA1 /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				892B5D46288F1FAA00F63DA1 /* LaunchScreen.storyboard in Resources */,
+				892B5D4E288F230C00F63DA1 /* start.txt in Resources */,
 				892B5D43288F1FAA00F63DA1 /* Assets.xcassets in Resources */,
 				892B5D41288F1FA700F63DA1 /* Main.storyboard in Resources */,
 			);
